@@ -1,0 +1,7 @@
+In this project, I decided to get more practice with defining functions and using control flow within them. A couple
+of hypothetical scenarios were used where an individiual is attempting to choose between taking the Taxi, Lyft, or Uber and determining 
+the approximate cost of such a trip. Along with some control flow, some input statements were assignmed to variables that were used within a 
+function. The function would then return a statement back to the user. Another function generating a random wait time was also created.
+At the end, the input statement variables are plugged into the functions defined earlier on in determing the approximate cost of the trip.
+The results are statements to the user telling them the approximate cost of their trip if they use a taxi service or some other ridesharing 
+service.
